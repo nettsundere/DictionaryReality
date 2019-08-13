@@ -1,0 +1,7 @@
+.idea
+bin
+obj
+results.txt
+results
+.DS_Store
+*.Artifacts

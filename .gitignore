@@ -4,4 +4,7 @@ obj
 results.txt
 results
 .DS_Store
-*.Artifacts
+Benchmark/*.Artifacts/*
+!Benchmark/*.Artifacts/results/
+Benchmark/*.Artifacts/results/*
+!Benchmark/*.Artifacts/results/*.md
